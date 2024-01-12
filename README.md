@@ -32,8 +32,10 @@ I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUl
 
 - :zap: In my free time, I solve problems on Leetcode [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken)  and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285)
-
+- :mailbox: How to reach me:
+[![Telegram Badge](https://img.shields.io/badge/-weare4saken-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/weare4saken)
+[![Gmail Badge](https://img.shields.io/badge/-kondrashka91@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](kondrashka91@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285) 
 ---
 
 ### :hammer_and_wrench: Languages and tools:
