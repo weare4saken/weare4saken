@@ -26,16 +26,17 @@
 
 ### :man_technologist: About me:
 I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a software engineer and contributing to backend and frontend for building web applications;
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring technical content writing;
 
-- :zap: In my free time, I solve problems on Leetcode [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken)  and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken)  and read tech articles;
 
 - :mailbox: How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/-weare4saken-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/weare4saken)
 [![Gmail Badge](https://img.shields.io/badge/-kondrashka91@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](kondrashka91@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285) 
+[![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285)
+
 ---
 
 ### :hammer_and_wrench: Languages and tools:
