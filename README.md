@@ -7,6 +7,9 @@
     <a href="https://gitlab.exportcenter.ru/ikondratyuk">
       <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white alt="Gitlab Badge"/>
     </a>
+    <a href="https://leetcode.com/weare4saken">
+      <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+    </a>
     <a href="https://twitter.com/weare4saken">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
@@ -27,7 +30,7 @@ I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUl
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken/)  and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken)  and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285)
 
