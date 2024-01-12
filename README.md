@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: About me:
 I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -33,7 +33,7 @@ I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -51,9 +51,13 @@ I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUl
 
 ---
 
-### :fire: My Stats :
+### :fire: My stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weare4saken&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weare4saken&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### :writing_hand: Blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
