@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/ilya-kondratyuk-947794285">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://gitlab.exportcenter.ru/ikondratyuk">
+      <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white alt="Gitlab Badge"/>
+    </a>
     <a href="https://twitter.com/weare4saken">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
