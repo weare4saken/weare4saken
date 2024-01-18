@@ -24,15 +24,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About me:
-I am a Backend Java/Groovy developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a software engineer and contributing to backend and frontend for building web applications;
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me:
 
-- :seedling: Exploring technical content writing;
+- 💻 I sling code as a software engineer, dabbling in both backend and frontend for crafting web apps;
 
-- :zap: In my free time, I solve problems on Leetcode [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken)  and read tech articles;
+- 📝 Lately, I've been dipping my toes into technical content writing;
 
-- :mailbox: How to reach me:
+- ⚡ When I'm not coding, you'll find me tackling Leetcode problems [![Leetcode Badge](https://img.shields.io/badge/-weare4saken-yellow?style=flat&logo=Leetcode&logoColor=white)](https://leetcode.com/weare4saken) and devouring tech articles.;
+
+- 📬 How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/-weare4saken-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/weare4saken)
 [![Gmail Badge](https://img.shields.io/badge/-kondrashka91@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](kondrashka91@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285)
