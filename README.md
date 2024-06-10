@@ -5,11 +5,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <div id="badges">
-    <a href="kondrashka91@gmail.com">
+    <a href="https://www.linkedin.com/in/ilya-kondratyuk-947794285">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/ilya-kondratyuk-947794285">
+    <a href="kondrashka91@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/weare4saken">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://gitlab.exportcenter.ru/ikondratyuk">
       <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white alt="Gitlab Badge"/>
