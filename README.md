@@ -63,6 +63,6 @@
 ---
 
 ### :fire: My stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weare4saken&theme=dark&background=000000&fire=8000FF&ring=8000FF&currStreakLabel=8000FF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weare4saken&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weare4saken&layout=compact&theme=vision-friendly-dark&title_color=8000FF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weare4saken&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
