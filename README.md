@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
     </a>
     <a href="https://x.com/weare4saken">
-      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=xr&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=weare4saken&style=flat-square&color=blue" alt=""/>
