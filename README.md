@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/ilya-kondratyuk-947794285">
-      <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://gitlab.exportcenter.ru/ikondratyuk">
       <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white alt="Gitlab Badge"/>
