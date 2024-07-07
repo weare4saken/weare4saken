@@ -30,7 +30,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me:
+<!-- ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  About me:
 
 - 💻 I sling code as a software engineer, dabbling in both backend and frontend for crafting web apps;
 
@@ -41,7 +41,7 @@
 - 📬 How to reach me:
 [![Telegram Badge](https://img.shields.io/badge/-weare4saken-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/weare4saken)
 [![Gmail Badge](https://img.shields.io/badge/-kondrashka91@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](kondrashka91@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285)
+[![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285) -->
 
 ---
 
