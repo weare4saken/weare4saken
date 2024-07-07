@@ -43,9 +43,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kondrashka91@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](kondrashka91@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-ilyakondratyuk-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-kondratyuk-947794285) -->
 
----
-
-### :hammer_and_wrench: Languages and tools:
+### :hammer_and_wrench: My skills:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Framework" alt="Spring" width="40" height="40"/>
@@ -65,8 +63,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
 </div>
-
----
 
 ### :fire: My stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=weare4saken&theme=dark&background=000000)](https://git.io/streak-stats)
