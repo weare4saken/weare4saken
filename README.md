@@ -53,7 +53,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" alt="Gradle" width="40" height="40"/>
   <img src="" title="Camunda" alt="Camunda Modeler" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-original.svg" title="gRPC" alt="gRPC" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="Postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" title="DBeaver" alt="DBeaver" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kafka-dark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>
@@ -64,6 +67,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/consul/consul-original.svg" title="Consul" alt="Consul" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" title="Vault" alt="Vault" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="ArgoCD" alt="ArgoCD" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg" title="ElasticSearch" alt="ElasticSearch" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/github.png" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
