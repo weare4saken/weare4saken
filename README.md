@@ -58,7 +58,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="Junit" alt="Junit" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="RobotFramework" alt="RobotFramework" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/github.png" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
