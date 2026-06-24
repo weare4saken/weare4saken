@@ -54,7 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="Postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Apache_Kafka_logo.svg" title="Kafka" alt="Kafka" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kafka-dark.svg" title="Kafka" alt="Kafka" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg" title="Junit" alt="Junit" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="RobotFramework" alt="RobotFramework" width="40" height="40"/>
