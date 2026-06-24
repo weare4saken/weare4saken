@@ -60,10 +60,9 @@
   <img src="https://www.svgrepo.com/show/374049/robotframework.svg" title="RobotFramework" alt="RobotFramework" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/github.png" title="Github" alt="Github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>
 </div>
 
 ### :fire: My stats :
